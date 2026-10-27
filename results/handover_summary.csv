@@ -1,0 +1,9 @@
+,Value
+Handover events,1370
+Percent of time steps,2.01
+Walking events,881
+Driving events,489
+Events inside a single run,1298
+Mean throughput before (Mbps),386.99
+Mean throughput after (Mbps),301.75
+Mean drop (Mbps),85.23

@@ -1,0 +1,6 @@
+,Bitrate,Throughput Range,Samples,Percentage
+1440p,"6,000 Kbps",> 500 Mbps,5452,40.0
+1080p,"3,000 Kbps",200-500 Mbps,2147,15.8
+720p,"2,000 Kbps",100-200 Mbps,4315,31.7
+480p,"1,000 Kbps",50-100 Mbps,1682,12.3
+360p,500 Kbps,< 50 Mbps,26,0.2

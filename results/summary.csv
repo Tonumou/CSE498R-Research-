@@ -1,0 +1,14 @@
+,Value
+LSTM MSE (50 ep),0.007575
+LSTM RMSE (50 ep),0.087036
+LSTM MAE (50 ep),0.055966
+MAE in Mbps,107.5
+RMSE in Mbps,167.1
+MSE reduction vs SMA (%),61.8
+MSE reduction vs Last Value (%),7.7
+Driving MSE lower than walking (%),42.2
+720p or higher (%),87.5
+LSTM switching (%),18.62
+Actual switching (%),27.87
+Handover events,1370
+Handover drop (Mbps),85.23
